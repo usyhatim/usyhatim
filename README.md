@@ -1,46 +1,39 @@
-<p align="left">yahoo~! My name is Ashley and I'm a computer science student</p>
+# yahoo~ I'm yusra! I study computer science at Universiti Teknologi Malaysia.
 
-###
+## 💻 About Me
+I'm a passionate programmer with a diverse skill set, focusing on Python, web development, cyber security, and game design.
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usyhatim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=usyhatim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-###
+## 🔭 Current Project
+### AI Study Assistant
+- 🤖 Developing an intelligent study companion using the Gemnai API
+- 🧠 Combining artificial intelligence with educational technology
+- 🚧 Actively working on implementing advanced learning features
 
-<img src="https://raw.githubusercontent.com/usyhatim/usyhatim/output/snake.svg" alt="Snake animation" />
+## 🌱 Future Projects
+1. 🤖 Complete the AI Study Assistant
+2. 🎮 Develop a Unity game featuring custom artwork
+3. 🌐 Create a personal portfolio website
 
-###
+## 🎨 Creative Pursuits
+When I'm not coding, I'm expanding my creative horizons:
+- 🖌️ Improving artistic skills
+- ✍️ Exploring creative writing
+- 🌈 Blending technical and artistic expression
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/usyhatim/count.svg?"  />
-</div>
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usyhatim&show_icons=true&theme=radical)
 
-###
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usyhatim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usyhatim@outlook.sa)
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/usyhatim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-</div>
-
-###
+**Always learning, always creating! 💡**
