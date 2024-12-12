@@ -1,7 +1,7 @@
-# yahoo~ I'm yusra! I study computer science at Universiti Teknologi Malaysia.
 
 ## 💻 About Me
-I'm a passionate programmer with a diverse skill set, focusing on Python, web development, cyber security, and game design.
+ yahoo~ I'm yusra! I study computer science at Universiti Teknologi Malaysia.
+I'm currently interested in Python, web development, cyber security, and game design.
 
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
