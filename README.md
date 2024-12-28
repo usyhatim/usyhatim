@@ -1,7 +1,7 @@
 
 ## 💻 About Me
- yahoo~ I'm yusra! I study computer science at Universiti Teknologi Malaysia.
-I'm currently interested in Python, web development, cyber security, and game design.
+i'm yusra! my English name is Ashley, I study computer science at Universiti Teknologi Malaysia.
+I'm interested in Python, web development, cyber security, and game design.
 
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
