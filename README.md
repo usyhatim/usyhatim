@@ -1,7 +1,5 @@
 
 ## 💻 About Me
-I'm yusra! my English name is Ashley, I study computer science at Universiti Teknologi Malaysia.
-
 interested in web development, cyber security, game dev, AI/ML
 
 ### 🚀 Tech Stack
