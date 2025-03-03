@@ -13,6 +13,6 @@
 
 ###
 
-<p align="left">at the moment I'm a 20-year-old trying to learn how to code :><br>I'm learning a lot but I love C++ the most.</p>
+<p align="left">at the moment I'm a 20-year-old trying to learn how to code :><br>I'm learning a lot but I love C++ and Javascript the most.</p>
 
   
