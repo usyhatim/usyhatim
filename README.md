@@ -1,13 +1,11 @@
-
-<div align="center">
-  <img src="/header1.png" width="100%" height="175" alt="Banner">
-</div>
+<p align="center">
+  <img src="/header.jpg">
 
 <h3 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h3>
 
 <p align="center">
-  <img src="/header.jpg" width="850" height="150" alt="Banner">
+  <img src="/header.jpg">
 
 <h3 align="left">About Me:</h3>
 
