@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=1970393582715734" height="248" width="236" frameborder="0">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=1970393582715734">
 
 
 
@@ -13,4 +13,4 @@
 
   
 <p align="center">
-  <img src="/header.jpg">
+  <img src="/header.png">
