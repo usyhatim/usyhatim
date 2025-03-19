@@ -5,7 +5,7 @@
 <h1 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h1>
 
-<img align="right" alt="side-image" width="400" src="/header2.png/>
+<img align="right" alt="side-image" width="400" src="/header2.gif>
 
 
 <h3 align="left">About Me:</h3>
