@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img height="283" src="/header.png">
+  <img height="283" src="/header1.png">
 </div>
 
 <h1 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
