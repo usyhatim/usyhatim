@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="/header.jpg">
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1970393582715734" height="248" width="236" frameborder="0" scrolling="no" ></iframe>
 
 <h3 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h3>
