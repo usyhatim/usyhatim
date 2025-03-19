@@ -4,7 +4,7 @@
 ###
 
 <div align="left">
-  <img height="283" src="/header.png"  />
+  <img height="283" src="/header.gif"  />
 </div>
 
 ###
