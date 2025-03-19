@@ -1,16 +1,13 @@
 
-<div align="center">
-  <img src="/header1.jpg" width="100%" alt="Banner">
-</div>
+<p align="center">
+  <img src="https://github.com/usyhatim/usyhatim/blob/main/header1.png" width="850" height="150" alt="Banner">
+</p>
 
-<h1 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h1>
+<h3 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h3>
 
-###
-
-
-
-###
+<p align="center">
+  <img src="https://github.com/usyhatim/usyhatim/blob/main/header.png" width="850" height="150" alt="Banner">
 
 <h3 align="left">About Me:</h3>
 
