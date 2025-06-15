@@ -1,14 +1,18 @@
 
 
 
-<h1 align="left">hello there, it's ash!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h1>
+<h1 align="left">"ashley's corner of headspace ✨</h1>
 
 <img align="right" alt="side-image" width="400" src="/header2.png">
 
 
 <h3 align="left">About Me:</h3>
-<p align="left">at the moment I'm a 20-year-old trying to learn how to code :><br>I'm learning a lot but I love C++ and Javascript the most.</p>
+<p align="left">currently a 20-year-old learning to code while getting lost in indie games ✨
+i love C++ and Javascript, but i'm always exploring new territories
+when i'm not debugging, you can find me in headspace or wandering through liminal spaces
+
+interests: omori, pixel art, dreamy aesthetics, analog horror, sad stories, indie games, journaling, running at night,
+the weird feeling you get in empty places, cybersecurity, game dev, web dev, and building things that feel just a little haunted</p>
 
 
 ### Current Teck Stack:
