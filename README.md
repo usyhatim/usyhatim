@@ -1,7 +1,7 @@
 
 
 
-<h1 align="left">"ashley's corner of headspace ✨</h1>
+<h1 align="left">ashley's corner of headspace ✨</h1>
 
 <img align="right" alt="side-image" width="400" src="/header2.png">
 
@@ -10,8 +10,8 @@
 <p align="left">currently a 20-year-old learning to code while getting lost in indie games ✨
 i love C++ and Javascript, but i'm always exploring new territories
 when i'm not debugging, you can find me in headspace or wandering through liminal spaces
-
-interests: omori, pixel art, dreamy aesthetics, analog horror, sad stories, indie games, journaling, running at night,
+<h3 align="left">interests:</h3>
+</p>omori, pixel art, dreamy aesthetics, analog horror, sad stories, indie games, journaling, running at night,
 the weird feeling you get in empty places, cybersecurity, game dev, web dev, and building things that feel just a little haunted</p>
 
 
