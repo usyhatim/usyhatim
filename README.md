@@ -12,15 +12,11 @@ when i'm not debugging, you can find me in headspace or wandering through limina
 
 ### Goals
 
-- Strengthen proficiency in **JavaScript**, focusing on ES6+, asynchronous programming, and clean architecture  
-- Build and document **full-stack web projects** using JavaScript and modern frameworks  
-- Learn and apply **React.js** to create responsive, user-focused interfaces  
-- Improve **Git/GitHub workflow** with advanced version control practices  
-- Contribute to **open-source projects**, focusing on clean code and collaboration  
-- Practice **Data Structures & Algorithms** consistently to improve problem-solving  
-- Develop a small **game project** to explore C++ and basic game architecture  
-- Deepen skills in **cybersecurity**, focusing on network fundamentals, Linux, and vulnerability analysis  
-
+1. Mastering **JavaScript**, with a focus on ES6+, asynchronous programming, and clean architecture.
+2. Building and documenting **full-stack web projects** using modern JavaScript frameworks.
+3. Exploring **C++** and **C#** game development by working on a small solo project.
+4. Improving **Git workflow**, including branching, pull requests, and version control best practices.
+5. Exploring more areas of **cybersecurity**, focusing on foundational concepts, tools, and hands-on practice.
 ---
 
 ### 🧰 Current Tech Stack
