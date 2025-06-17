@@ -10,7 +10,7 @@ when i'm not debugging, you can find me in headspace or wandering through limina
 
 ---
 
-### Goals
+### Current Goals
 
 1. Mastering **JavaScript**, with a focus on ES6+, asynchronous programming, and clean architecture.
 2. Building and documenting **full-stack web projects** using modern JavaScript frameworks.
