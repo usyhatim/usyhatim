@@ -5,8 +5,7 @@
 ### About Me
 
 Currently a 20-year-old learning to code while getting lost in indie games ✨  
-I love Python and JavaScript, but I'm always exploring new territories.  
-When I'm not debugging, you can find me in Headspace or wandering through liminal spaces.
+I love Python and JavaScript, but I'm always exploring new territories.
 
 ---
 
