@@ -4,18 +4,19 @@
 
 ### About Me
 
-currently a 20-year-old learning to code while getting lost in indie games ✨  
-i love C++ and JavaScript, but i'm always exploring new territories.  
-when i'm not debugging, you can find me in headspace or wandering through liminal spaces.
+Currently a 20-year-old learning to code while getting lost in indie games ✨  
+I love Python and JavaScript, but I'm always exploring new territories.  
+When I'm not debugging, you can find me in Headspace or wandering through liminal spaces.
 
 ---
 
 ### Current Goals
 
-1. Mastering **JavaScript**, with a focus on ES6+, asynchronous programming, and clean architecture.
-2. Building and documenting **full-stack web projects** using modern JavaScript frameworks.
+1. Building and documenting **full-stack web projects** using modern JavaScript frameworks.
+2. Exploring more areas of **cybersecurity**, focusing on foundational concepts, tools, and hands-on practice.
 3. Improving **Git workflow**, including branching, pull requests, and version control best practices.
-4. Exploring more areas of **cybersecurity**, focusing on foundational concepts, tools, and hands-on practice.
+4. Applying key **web security principles** in full-stack projects, such as user authentication (JWT, OAuth), access control, preventing common attacks (XSS, CSRF, SQLi), and using secure coding practices.
+
 ---
 
 ### 🧰 Current Tech Stack
